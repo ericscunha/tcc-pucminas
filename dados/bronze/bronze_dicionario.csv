@@ -1,0 +1,57 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+escola,rede,1,(1),Federal
+escola,rede,4,(1),Privada
+escola,rede,2,(1),Estadual
+escola,rede,3,(1),Municipal
+escola,tipo_aee,0,(1),Não oferece
+escola,tipo_aee,2,(1),Exclusivamente
+escola,tipo_aee,1,(1),Não exclusivamente
+escola,tipo_rede_local,1,(1),A cabo
+escola,tipo_rede_local,2,(1),Wireless
+escola,tipo_rede_local,9,(1),Não informado
+escola,tipo_rede_local,3,(1),A cabo e Wireless
+escola,tipo_rede_local,0,(1),Não há rede local interligando computadores
+escola,tipo_localizacao,2,(1),Rural
+escola,tipo_localizacao,1,(1),Urbana
+escola,tipo_lingua_indigena,1,(1),Somente em Língua Indígena
+escola,tipo_lingua_indigena,2,(1),Somente em Língua Portuguesa
+escola,tipo_lingua_indigena,3,(1),Em Língua Indígena e em Língua Portuguesa
+escola,tipo_regulamentacao ,1,(1),Sim
+escola,tipo_regulamentacao ,0,(1),Não
+escola,tipo_regulamentacao ,2,(1),Em tramitação
+escola,tipo_proposta_pedagogica,1,(1),Sim
+escola,tipo_proposta_pedagogica,0,(1),Não
+escola,tipo_proposta_pedagogica,9,(1),Não informado
+escola,tipo_proposta_pedagogica,2,(1),A escola não possui projeto político pedagógico/proposta pedagógica
+escola,tipo_atividade_complementar ,0,(1),Não oferece
+escola,tipo_atividade_complementar ,2,(1),Exclusivamente
+escola,tipo_atividade_complementar ,1,(1),Não exclusivamente
+escola,tipo_convenio_poder_publico ,2,(1),Estadual
+escola,tipo_convenio_poder_publico ,1,(1),Municipal
+escola,tipo_convenio_poder_publico ,3,(1),Estadual e Municipal
+escola,tipo_situacao_funcionamento ,2,(1),Paralisada
+escola,tipo_situacao_funcionamento ,1,(1),Em atividade
+escola,tipo_situacao_funcionamento ,3,(1),Extinta (ano do Censo)
+escola,tipo_situacao_funcionamento ,4,(1),Extinta em Anos Anteriores
+escola,tipo_categoria_escola_privada,1,(1),Particular
+escola,tipo_categoria_escola_privada,2,(1),Comunitária
+escola,tipo_categoria_escola_privada,3,(1),Confessional
+escola,tipo_categoria_escola_privada,4,(1),Filantrópica
+escola,tipo_localizacao_diferenciada,3,(1),Terra indígena
+escola,tipo_localizacao_diferenciada,2,(1),Área de assentamento
+escola,tipo_localizacao_diferenciada,1,(1),A escola não está em área de localização diferenciada
+escola,tipo_localizacao_diferenciada,4,(1),Área onde se localiza comunidade remanescente de quilombos
+escola,tipo_local_funcionamento_galpao ,3,(1),Cedido
+escola,tipo_local_funcionamento_galpao ,2,(1),Alugado
+escola,tipo_local_funcionamento_galpao ,1,(1),Próprio
+escola,tipo_local_funcionamento_galpao ,9,(1),Não informado
+escola,tipo_responsavel_regulamentacao ,1,(1),Federal
+escola,tipo_responsavel_regulamentacao ,2,(1),Estadual
+escola,tipo_responsavel_regulamentacao ,3,(1),Municipal
+escola,tipo_responsavel_regulamentacao ,9,(1),Não informado
+escola,tipo_responsavel_regulamentacao ,5,(1),Federal e Estadual
+escola,tipo_responsavel_regulamentacao ,4,(1),Estadual e Municipal
+escola,tipo_responsavel_regulamentacao ,6,(1),"Federal, Estadual e Municipal"
+escola,tipo_local_funcionamento_predio_escolar ,3,(1),Cedido
+escola,tipo_local_funcionamento_predio_escolar ,2,(1),Alugado
+escola,tipo_local_funcionamento_predio_escolar ,1,(1),Próprio
